@@ -1,0 +1,10 @@
+body{
+    background-color: #808080;
+}
+
+.header,.beader{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-between;
+    color: lavenderblush;
+}
